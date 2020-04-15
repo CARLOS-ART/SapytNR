@@ -1,0 +1,5 @@
+[
+{"Menu":"Compras","Icono":"fa fa-user","Tipo":"Menu","Links":[
+                 {"Opcion":"Historial de compras","Link":"/Compras/Historial"}
+                 ]}
+]

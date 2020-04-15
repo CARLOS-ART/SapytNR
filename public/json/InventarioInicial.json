@@ -1,0 +1,10 @@
+[
+{"Menu":"Auditorias","Icono":"fa fa-file-code-o","Tipo":"Menu","Links":[
+                                {"Opcion":"Panel Auditorias","Link":"/Auditorias/Tablero"}
+                                ]},
+{"Menu":"Productos","Icono":"fa fa-money","Tipo":"Menu","Links":[
+                                {"Opcion":"Aliados - Complementos","Link":"/Productos/Aliados"},
+                                {"Opcion":"Inventario inicial","Link":"/InventarioInicial/Tablero"},
+                                {"Opcion":"Inventario inicial Aliados","Link":"/InventarioInicial/Tablero/Aliados"}
+                                ]},
+]

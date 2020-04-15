@@ -1,0 +1,11 @@
+{
+"Menu":{
+"Elementos":[
+             {"Submenu":"Productos","Icono":"os-icon os-icon-package","ItemsSubmenu":[
+			                    {"Nombre":"Aliados - Complementos","Link":"/Productos/Aliados"}]},								
+             {"Submenu":"Compras","Icono":"dripicons-cart","ItemsSubmenu":[
+			                    {"Nombre":"Registrar Compra","Link":"/Compras/Registrar"},
+								{"Nombre":"Historial de compras","Link":"/Compras/Historial"}]}
+            ]
+       }
+}

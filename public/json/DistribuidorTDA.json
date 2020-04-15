@@ -1,0 +1,22 @@
+[
+
+{"Menu":"Productos","Icono":"fa fa-money","Tipo":"Menu","Links":[
+                                {"Opcion":"Aliados - Complementos","Link":"/Productos/Aliados"},
+                                {"Opcion":"Cambiar Precios","Link":"/Productos/CambioPrecios"},
+                                {"Opcion":"Cambiar Precios - Porcentaje","Link":"/Productos/CambioPrecios/Porcentaje"},
+                                {"Opcion":"Inventario inicial","Link":"/InventarioInicial/Tablero"},
+                                {"Opcion":"Inventario inicial Aliados","Link":"/InventarioInicial/Tablero/Aliados"},
+                                {"Opcion":"Productos BASF","Link":"/Productos/ProductosBASF"},
+                                {"Opcion":"Traspaso de productos","Link":"/Productos/Traspaso"},
+                                {"Opcion":"Envío de productos","Link":"/Transfer/Transferencias"}
+                                ]},
+{"Menu":"Compras","Icono":"fa fa-user","Tipo":"Menu","Links":[
+                                {"Opcion":"Registrar Compra","Link":"/Compras/Registrar"},
+                                {"Opcion":"Historial de compras","Link":"/Compras/Historial"}
+                                ]},
+{"Menu":"Formulas BASF","Icono":"fa fa-slack","Tipo":"Menu","Links":[
+                                {"Opcion":"Registrar Formula","Link":"/Formulas/Crear"},
+                                {"Opcion":"Editar formula","Link":"/Formulas/Editar"}
+                                ]},
+
+]

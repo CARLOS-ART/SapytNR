@@ -1,0 +1,5 @@
+[
+{"Menu":"Inicio","Icono":"fa fa-bar-charto","Tipo":"Menu","Links":[
+                                {"Opcion":"Tablero de Talleres","Link":"/AgenteVentas/AgenteVentas"}
+                                ]},
+]

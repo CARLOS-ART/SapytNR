@@ -1,0 +1,36 @@
+[
+{"Menu":"Actividades","Icono":"fa fa-file-code-o","Tipo":"Menu","Links":[
+                                {"Opcion":"Crear Actividad","Link":"/Factory/Actividades/Crear"},
+                                {"Opcion":"Zonas de actividad","Link":"/Factory/Actividades/Zonas"},
+                                {"Nombre":"Catalogo de Vehiculos","Link":"/Factory/Actividades/CatalogoVehiculos"}
+                                ]},
+{"Menu":"Bitacoras","Icono":"fa fa-clipboard","Tipo":"Menu","Links":[
+                                {"Opcion":"Crear Bitacora","Link":"/Factory/Bitacoras/Crear"},
+                                {"Opcion":"Historial Bitacora","Link":"/Factory/Bitacoras/Tablero"}
+                                ]},
+{"Menu":"Compras","Icono":"pg-shopping_cart","Tipo":"Menu","Links":[
+                                {"Opcion":"Registrar Compra","Link":"/Compras/Registrar"},
+                                {"Opcion":"Historial de compras","Link":"/Compras/Historial"}
+                                ]},
+{"Menu":"Cuadrillas de trabajo","Icono":"fa fa-users","Tipo":"Menu","Links":[
+                                {"Opcion":"Crear Cuadrillaa","Link":"/Factory/Cuadrillas/Crear"},
+                                {"Opcion":"Editar Cuadrillas","Link":"/Factory/Bitacoras/Tablero"}
+                                ]},
+{"Menu":"Productos","Icono":"fa fa-dropbox","Tipo":"Menu","Links":[
+                                {"Opcion":"Aliados - Complementos","Link":"/Productos/Aliados"},
+                                {"Opcion":"Productos BASF","Link":"/Productos/ProductosBASF"},
+                                {"Opcion":"Traspaso de productos","Link":"/Productos/Traspaso"}
+                                ]},
+{"Menu":"Talleres","Icono":"fa fa-building-o","Tipo":"Menu","Links":[
+                                {"Opcion":"Crear Formulas","Link":"/Talleres/FichaTaller"}
+                                ]},
+{"Menu":"Formulas","Icono":"fa fa-slack","Tipo":"Menu","Links":[
+                                {"Opcion":"Crear Formulas","Link":"/Factory/Formulas"}
+                                ]},
+{"Menu":"Estadísticas","Icono":"fa fa-bar-chart","Tipo":"Menu","Links":[
+                                {"Opcion":"Inventario","Link":"/Estadisticas/Inventario"},
+                                {"Opcion":"Consumo Taller","Link":"/Estadisticas/EspConsumoTaller"},
+                                {"Opcion":"Consumo por Bitacoras","Link":"/Estadisticas/EspConsumoBitacoras"}
+                                ]},
+
+]

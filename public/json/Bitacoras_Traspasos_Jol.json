@@ -1,0 +1,20 @@
+{
+"Menu":{
+"Elementos":[
+             {"Submenu":"Bitacoras","Icono":"os-icon os-icon-file-text","ItemsSubmenu":[
+			 
+			     {"Nombre":"Crear Bitacora","Link":"/Bitacoras/Crear"},
+			     {"Nombre":"Historial Bitacora","Link":"/Bitacoras/Tablero"}]},
+             {"Submenu":"Productos","Icono":"os-icon os-icon-package","ItemsSubmenu":[
+			 
+			     {"Nombre":"Traspaso de productos","Link":"/Productos/Traspaso"}]},
+			 
+			 {"Submenu":"Formulas BASF","Icono":"icon-chemistry","ItemsSubmenu":[
+			 
+			     {"Nombre":"Registrar Formula","Link":"/Formulas/Crear"},
+			     {"Nombre":"Editar formula","Link":"/Formulas/Editar"}]}
+			 
+            
+            ]
+       }
+}

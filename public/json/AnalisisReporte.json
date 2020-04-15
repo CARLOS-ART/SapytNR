@@ -1,0 +1,20 @@
+[
+{"Menu":"Auditorias","Icono":"pg-layouts","Tipo":"Menu","Links":[
+                                {"Opcion":"Panel Auditorias","Link":"/Auditorias/Tabler"}
+                                ]},
+{"Menu":"Compras","Icono":"pg-shopping_cart","Tipo":"Menu","Links":[
+                                {"Opcion":"Historial de compras","Link":"/Compras/Historial"}
+                                ]},
+{"Menu":"Estadísticas","Icono":"fa fa-bar-chart","Tipo":"Menu","Links":[
+                                {"Opcion":"Inventario","Link":"/Estadisticas/Inventario"},
+                                {"Opcion":"Estadísticas de consumo","Link":"/Estadisticas/Consumo"},
+                                {"Opcion":"Estadísticas Operarios","Link":"/Estadisticas/Operario"},
+                                {"Opcion":"Estadísticas de productividad","Link":"/Estadisticas/Productividad"},
+                                {"Opcion":"Graficas de productividad","Link":"/Estadisticas/Productividad"},
+                                {"Opcion":"Estadisticas Pieza Importe","Link":"/Estadisticas/PiezaImporte"},
+                                {"Opcion":"Taller Consumo Mensual","Link":"/Estadisticas/TallerConsumoMensual"},
+                                {"Opcion":"Informe Importe Taller","Link":"/Estadisticas/InformeTalleresImporte"},
+                                {"Opcion":"Traspasos","Link":"/Estadisticas/Traspasos"},
+                                {"Opcion":"Envio de productos","Link":"/Estadisticas/Transferencia_producto"}
+                                ]}
+]

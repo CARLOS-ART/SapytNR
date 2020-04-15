@@ -1,0 +1,43 @@
+[
+{"Menu":"Auditorias","Icono":"fa fa-file-code-o","Tipo":"Menu","Links":[
+                                {"Opcion":"Panel Auditorias","Link":"/Auditorias/Tablero"}
+                                ]},
+{"Menu":"Bitacoras","Icono":"fa fa-file-code-o","Tipo":"Menu","Links":[
+                                {"Opcion":"Crear Bitacora","Link":"CargaProductoBitacora"},
+                                {"Opcion":"Historial Bitacora","Link":"/Bitacoras/Tablero"}
+                                ]},
+{"Menu":"Productos","Icono":"fa fa-money","Tipo":"Menu","Links":[
+                                {"Opcion":"Aliados - Complementos","Link":"/Productos/Aliados"},
+                                {"Opcion":"Cambiar Precios","Link":"/Productos/CambioPrecios"},
+                                {"Opcion":"Cambiar Precios - Porcentaje","Link":"/Productos/CambioPrecios/Porcentaje"},
+                                {"Opcion":"Inventario inicial","Link":"/InventarioInicial/Tablero"},
+                                {"Opcion":"Inventario inicial Aliados","Link":"/InventarioInicial/Tablero/Aliados"},
+                                {"Opcion":"Productos BASF","Link":"/Productos/ProductosBASF"},
+                                {"Opcion":"Traspaso de productos","Link":"/Productos/Traspaso"},
+                                {"Opcion":"Envío de productos","Link":"/Transfer/Transferencias"}
+                                ]},
+{"Menu":"Compras","Icono":"fa fa-user","Tipo":"Menu","Links":[
+                                {"Opcion":"Registrar Compra","Link":"/Compras/Registrar"},
+                                {"Opcion":"Historial de compras","Link":"/Compras/Historial"}
+                                ]},
+{"Menu":"Formulas BASF","Icono":"fa fa-slack","Tipo":"Menu","Links":[
+                                {"Opcion":"Registrar Formula","Link":"/Formulas/Crear"},
+                                {"Opcion":"Editar formula","Link":"/Formulas/Editar"}
+                                ]},
+
+{"Menu":"Talleres","Icono":"pg-home","Tipo":"Menu","Links":[
+                                {"Opcion":"Info Taller","Link":"/Talleres/FichaTaller"}
+                                ]},
+{"Menu":"Estadísticas","Icono":"fa fa-users","Tipo":"Menu","Links":[
+                                {"Opcion":"Inventario","Link":"/Estadisticas/Inventario"},
+                                {"Opcion":"Estadísticas de consumo","Link":"/Estadisticas/Consumo"},
+                                {"Opcion":"Estadísticas Operarios","Link":"/Estadisticas/Operario"},
+                                {"Opcion":"Estadísticas de productividad","Link":"/Estadisticas/Productividad"},
+                                {"Opcion":"Graficas de productividad","Link":"/Estadisticas/Productividad"},
+                                {"Opcion":"Estadisticas Pieza Importe","Link":"/Estadisticas/PiezaImporte"},
+                                {"Opcion":"Taller Consumo Mensual","Link":"/Estadisticas/TallerConsumoMensual"},
+                                {"Opcion":"Informe Importe Taller","Link":"/Estadisticas/InformeTalleresImporte"},
+                                {"Opcion":"Traspasos","Link":"/Estadisticas/Traspasos"},
+                                {"Opcion":"Envio de productos","Link":"/Estadisticas/Transferencia_producto"}
+                                ]}
+]

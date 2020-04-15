@@ -1,0 +1,14 @@
+[
+{"Menu":"Bitacoras","Icono":"fa fa-clipboard","Tipo":"Menu","Links":[
+                                {"Opcion":"Crear Bitacora","Link":"CargaProductoBitacora"},
+                                {"Opcion":"Historial Bitacora","Link":"/Bitacoras/Tablero"}
+                                ]},
+{"Menu":"Productos","Icono":"fa fa-dropbox","Tipo":"Menu","Links":[
+                                {"Opcion":"Aliados - Complementos","Link":"/Productos/Aliados"},
+                                {"Opcion":"Productos BASF","Link":"/Productos/ProductosBASF"}
+                                ]},
+{"Menu":"Talleres","Icono":"fa fa-building-o","Tipo":"Menu","Links":[
+                                {"Opcion":"Info Taller","Link":"/Talleres/FichaTaller"}
+                                ]},
+
+]

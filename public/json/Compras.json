@@ -1,0 +1,14 @@
+[
+{"Menu":"Productos","Icono":"fa fa-dropbox","Tipo":"Menu","Links":[
+                                {"Opcion":"Aliados - Complementos","Link":"/Productos/Aliados"},
+                                {"Opcion":"Cambiar Precios","Link":"/Productos/CambioPrecios"},
+                                {"Opcion":"Cambiar Precios - Porcentaje","Link":"/Productos/CambioPrecios/Porcentaje"},
+                                {"Opcion":"Productos BASF","Link":"/Productos/ProductosBASF"},
+                                {"Opcion":"Traspaso de productos","Link":"/Productos/Traspaso"},
+                                {"Opcion":"Envío de productos","Link":"/Transfer/Transferencias"}
+                                ]},
+{"Menu":"Compras","Icono":"pg-shopping_cart","Tipo":"Menu","Links":[
+                                {"Opcion":"Registrar Compra","Link":"/Compras/Registrar"},
+                                {"Opcion":"Historial de compras","Link":"/Compras/Historial"}
+                                ]},
+]
