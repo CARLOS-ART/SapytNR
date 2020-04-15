@@ -500,7 +500,7 @@ class Bitacoras_Controller extends Controller
         $Valor = str_replace(',','',$i[4]);
 
         if(!is_numeric($Valor)){
-          return array(2,"Dato incorrecto","Se esperaba un valor numerico en la fila ".$Fila.", el valor recibido es:".$i[2]." para la Columna Cantidad.","warning");
+          return array(2,"Dato incorrecto","Se esperaba un valor numerico en la <b>fila ".$Fila."</b>, el valor recibido es: <b>".$i[4]."</b> para la Columna Cantidad.","warning");
         }
 
         if($Valor>0){
@@ -533,16 +533,16 @@ class Bitacoras_Controller extends Controller
         if($Comprobar[3] != "success"){
           switch ($x) {
             case 0:
-              $Seccion = 'SECCION PRIMARIOS: ';
+              $Seccion = '<b>SECCION PRIMARIOS:</b> ';
             break;
             case 1:
-              $Seccion = 'SECCION TRANSPARENTES: ';
+              $Seccion = '<b>SECCION TRANSPARENTES:</b> ';
             break;
             case 2:
-              $Seccion = 'SECCION ADICIONALES (BASF): ';
+              $Seccion = '<b>SECCION ADICIONALES (BASF):</b> ';
             break;
             case 4:
-              $Seccion = 'COMPLEMENTOS(ALIADOS): ';
+              $Seccion = '<b>COMPLEMENTOS(ALIADOS):</b> ';
             break;
           }
           return response()->json(["Titulo"=>$Comprobar[1],

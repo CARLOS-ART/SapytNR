@@ -45,9 +45,7 @@ Handsontable.cellLookup.renderer.negativeValueRenderer = negativeValueRenderer;
     contextMenu: false,
   cells: function (row, col, prop) {
     var cellProperties = {};
-
-
-      cellProperties.renderer = "negativeValueRenderer"; //uses lookup map
+    cellProperties.renderer = "negativeValueRenderer"; //uses lookup map
 
     return cellProperties;
   },
@@ -93,5 +91,3 @@ Handsontable.cellLookup.renderer.negativeValueRenderer = negativeValueRenderer;
     //funcion para obtener el ID
       $("#btnComentarios").data("item",$container.handsontable('getDataAtCell',Fila,0));
     }
-
-    

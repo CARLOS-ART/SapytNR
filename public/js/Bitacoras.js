@@ -123,6 +123,19 @@ Handsontable.cellLookup.renderer.negativeValueRenderer = negativeValueRenderer;
 
                  }
                }});
+
+               $container1.handsontable('updateSettings',{
+                 cells: function (row, col ,prop) {
+                 var cellProperties = {};
+                 switch (prop) {
+                   case 0: cellProperties.readOnly = true;    break;
+                   case 1: cellProperties.readOnly = true;    break;
+                   case 2: cellProperties.readOnly = true;    break;
+                   case 3: cellProperties.readOnly = true;    break;
+                 }
+                 return cellProperties;
+               }
+             });
         },
         error:function(data){
           H5_loading.hide();
